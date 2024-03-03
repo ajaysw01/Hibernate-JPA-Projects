@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Ajay\Practice\HibernatePrjs\12. Application1\HibernateApplication1"/>
+			<item value="C:\Ajay\Practice\HibernatePrjs\09. JPQLApplication\JPQLApplication"/>
+			<item value="C:\Ajay\Practice\HibernatePrjs\05. OneToMany\JPAOneToMany"/>
+			<item value="C:\Ajay\Practice\HibernatePrjs\03. Many-to-Many\JPAManyToMany"/>
+			<item value="C:\Ajay\Practice\HibernatePrjs\01. Level2 cache example\Level2Cache"/>
+			<item value="C:\Ajay\Practice\HibernatePrjs\07. JPANamedQueryApp\NamedQueryApplication"/>
+			<item value="C:\Ajay\Practice\HibernatePrjs\01. Level2 cache example"/>
+			<item value="C:\Users\ajays\Documents\AjNotes\Hibernate Notes\01. Level2 cache example\Level2Cache"/>
+			<item value="C:\Ajay\Practice\HibernatePrjs\EmbeddableApp"/>
+			<item value="C:\Ajay\Practice\HibernatePrjs\HibernateApp1"/>
+			<item value="C:\Ajay\Practice\HibernatePrjs\HibernateJPA1"/>
+			<item value="C:\Ajay\Practice\HibernatePrjs\JPAManytoOne"/>
+			<item value="C:\Ajay\Practice\HibernatePrjs\JPAOneToManyApp"/>
+			<item value="C:\Ajay\Practice\HibernatePrjs\JPQLApp"/>
+			<item value="C:\Ajay\Practice\HibernatePrjs\NamedQueryApplication"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Ajay\Practice\HibernatePrjs\JPAOneToOne\src\main\java\com\aj\test\Test.java"/>
+			<item value="C:\Ajay\Practice\HibernatePrjs\JPAManytoOne\src\main\java\com\aj\mto\test\Test.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
+	</section>
+</section>
